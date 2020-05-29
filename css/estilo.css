@@ -1,0 +1,109 @@
+img,
+picture,
+video,
+embed {
+   max-width: 100%;
+}
+.gregos {
+    box-align:left;
+    margin: 5px;
+}
+
+.img-esquerda {
+    float: right;
+    margin-top: 0;
+    margin-right: -198px;
+}
+.col-md-3 {
+    background-color: rgb(102, 213, 247)!important;
+    height: 260px;
+    color: rgb(39, 7, 90);
+    box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.57);
+}
+.col-md-4 {
+    background-color: rgb(102, 213, 247)!important;
+    height: 260px;
+    color: rgb(39, 7, 90);
+    box-shadow: 9px 7px 5px rgba(50, 50, 50, 0.57);
+}
+.cors{
+    color: #0b457f;
+    font-size: 1.3em ;
+}
+
+.cor {
+    background-color:  #66d5f7;
+    /*width: 13%;*/
+}
+.cor2 {
+    background-color:  rgb(12, 69, 87);
+    color: #fff;
+}
+.rodape-titulo2 {
+    padding: 15px;
+    text-align: center;
+    background-color:  rgb(12, 69, 87);
+    color: #fff;
+   
+}
+.footer {
+    width: 100%;
+    margin-top: 2.4em;
+    margin-bottom: 2.4em;
+    float: left;
+    clear: both;
+    
+ }
+ .div-em-colunas {
+     margin: 15px;
+    -webkit-column-count:3; /* Chrome, Safari, Opera */
+    -moz-column-count:3;    /* Firefox */
+    column-count:3;         /* padrão */
+}
+.div-em-colunas2 {
+    margin: 15px;
+   -webkit-column-count:2; /* Chrome, Safari, Opera */
+   -moz-column-count:2;    /* Firefox */
+   column-count:2;         /* padrão */
+}
+
+
+.div-colunas {
+    margin: 15px;
+   -webkit-column-count:4; /* Chrome, Safari, Opera */
+   -moz-column-count:4;    /* Firefox */
+   column-count:4;         /* padrão */
+}
+.div-colunas2 {
+    margin: 15px;
+   -webkit-column-count:2; /* Chrome, Safari, Opera */
+   -moz-column-count:2;    /* Firefox */
+   column-count:2;         /* padrão */
+}
+.alinhar{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.estilo_fonte{
+    font-style: italic;
+}
+p{
+    margin: 8px;
+}
+.disp{
+    font-size: 1.2em;
+} 
+.galeria img:hover {
+    -webkit-transform: scale(1.9);
+    -moz-transform: scale(1.9);
+    -o-transform: scale(1.9);
+    -ms-transform: scale(1.9);
+    transform: scale(1.9);
+  }
+  /*=============SEGUNDO ANO================*/
+ .corbc {
+      background-color: #728faa;
+      color:#fff;
+  }
+  
+  
